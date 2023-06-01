@@ -14,7 +14,7 @@ const page: FC<pageProps> = () => {
   return (
     <>
       <Banner />
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className="container grid grid-cols-1 gap-4 mx-auto">
         {postPreviews}
       </div>
     </>

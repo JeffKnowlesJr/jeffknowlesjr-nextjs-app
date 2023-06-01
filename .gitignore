@@ -33,3 +33,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+posts/aws-quickstart.md
+posts/gpt-3-generated-poetry.md
+posts/retro-games-with-pico-8.md
+posts/qr-code-micro-app.md
+posts/saas-starter-app.md
+posts/wolfhunter.md
